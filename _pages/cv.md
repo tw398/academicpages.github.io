@@ -27,26 +27,10 @@ Prizes and Honors
 ======
 * Runner-up, Doctoral Dissertation Award, INFORMS Telecommunications and Network Analytics, 2020.
 * University Medal in Statistics, Australian National University, 2013.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 * President, South East Texas Chapter of ASA (SETCASA).
 * Elected Member of International Statistical Institute
+
+paperurl: http://tw398.github.io/twang/files/CV_TWang.pdf
