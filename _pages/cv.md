@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Actuarial Studies with Honors in Statistics, Australian National University, Feb 2010 - Dec 2013.
+* M.Sc. in Operations Research, Cornell University, Aug 2014 - Jan 2017.
+* Ph.D. in Operations Research, Cornell University, Aug 2014 - Aug 2019. 
+Concentration: Applied Probability and Statistics. 
+Minors: Finance, Mathematical Statistics.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022 - Present: Young Investigator, SCMS, Fudan University.
+* September 2019 - August 2022: Assistant Professor, Department of Statistics, Texas A&M University.
+* January 2014 - July 2014: Research Assistant, Mathematical Science Institute, Australian National University.
   
-Skills
+Prizes and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Runner-up, Doctoral Dissertation Award, INFORMS Telecommunications and Network Analytics, 2020.
+* University Medal in Statistics, Australian National University, 2013.
 
 Publications
 ======
@@ -56,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, South East Texas Chapter of ASA (SETCASA).
+* Elected Member of International Statistical Institute
