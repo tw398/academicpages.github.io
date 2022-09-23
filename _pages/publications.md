@@ -21,7 +21,8 @@ Research Papers
 
 * T. Wang and S.I. Resnick. Common growth patterns in regional communication networks: a point process approach. Journal of Data Science, DOI: 10.6339/21-JDS1021, 2021.
 
-* T. Wang and J. Yan. Discussion of On Studying Extreme Values and Systematic Risks with Nonlinear Time Series Models and Tail Dependence Measures". Statistical Theory and Related Fields, 2021.DOI: 10.1080/24754269.2020.1869897.
+* T. Wang and J. Yan. Discussion of On Studying Extreme Values and Systematic Risks with Nonlinear Time Series Models and Tail Dependence Measures". Statistical Theory and Related Fields, 2021.
+DOI: 10.1080/24754269.2020.1869897.
 
 * P. Zhang, T. Wang and S.X. Xie. Meta-analysis of several epidemic characteristics of COVID-19. Journal of Data Science, 18: 536-549, 2020.
 
@@ -39,20 +40,22 @@ Research Papers
 
 * T. Wang and S.I. Resnick. Asymptotic Normality of In- and Out-Degree Counts in a Preferential Attachment Model. Stochastic Models, 33(2):229-255, 2017.
 
-*Y. Fan, P. Griffin, R.A. Maller, A. Szimayer and T. Wang. The Effects of Largest Claims and Excess of Loss Reinsurance on a Company's Ruin Time and Valuation, Risks, 5(1):3, 2017.
+* Y. Fan, P. Griffin, R.A. Maller, A. Szimayer and T. Wang. The Effects of Largest Claims and Excess of Loss Reinsurance on a Company's Ruin Time and Valuation, Risks, 5(1):3, 2017.
 
 Preprints
 ======
 
 * T. Wang and S.I. Resnick. Random Networks with Heterogeneous Reciprocity Levels. arXiv:2208.00348. Submitted to Annals of Applied Probability, 2022.
 
-* D. Cirkovic, T. Wang and X. Zhang. Likelihood-based Changepoint Detection in Preferential AttachmentNetworks. arXiv:2206.01076. Submitted to Biometrika, 2022.
+* D. Cirkovic, T. Wang and X. Zhang. Likelihood-based Changepoint Detection in Preferential Attachment
+Networks. arXiv:2206.01076. Submitted to Biometrika, 2022.
 
 * J. Wang, Y. Hou, X. Li and T. Wang. EVIboost for the Prediction of Extreme Value Index under Heterogeneous Extremes. arXiv:2205.14512. Submitted to Journal of Data Science, 2022.
 
 * D. Cirkovic, T. Wang and S.I. Resnick. Preferential Attachment with Reciprocity: Properties and Estimation. arXiv:2201.03769. Submitted to Stochastic System, 2022.
 
-* T. Wang, J. Yan, Y. Yuan and P. Zhang. Generating Directed Networks with Predetermined AssortativityMeasures. arXiv:2201.03451. Submitted to Statistics and Computing, 2022.
+* T. Wang, J. Yan, Y. Yuan and P. Zhang. Generating Directed Networks with Predetermined Assortativity
+Measures. arXiv:2201.03451. Submitted to Statistics and Computing, 2022.
 
 * T. Wang and S.I. Resnick. A directed preferential attachment model with Poisson Measurement. arXiv preprint: 2008.07005. Submitted to Methodology and Computing of Applied Probability, 2022.
 
