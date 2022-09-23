@@ -14,7 +14,7 @@ description              : &description "Young Investigator at Shanghai Center f
 url                      : https://tw398.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/twang" # the subpath of your site, e.g. "/blog"
 repository               : "tw398/twang.github.io"
-teaser                   : "Portrait.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
