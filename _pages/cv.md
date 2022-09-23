@@ -33,4 +33,4 @@ Service and leadership
 * President, South East Texas Chapter of ASA (SETCASA).
 * Elected Member of International Statistical Institute
 
-paperurl: http://tw398.github.io/twang/files/CV_TWang.pdf
+
