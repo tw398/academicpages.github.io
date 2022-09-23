@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Curriculum Vitae](https://tw398.github.io/twang/files/CV_TWang.pdf)
+
 {% include base_path %}
 
 Education
