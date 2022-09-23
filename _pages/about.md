@@ -20,7 +20,10 @@ I received my Ph.D. in Operations Research from the [School of Operations Resear
 Contact
 ======
 Room 533 Shanghai Center for Mathematical Sciences,
+
 Jiangwan Campus, Fudan University, 
+
 No.2005 Songhu Road, Shanghai, China 200438
+
 E-mail: td_wang@fudan.edu.cn
 
